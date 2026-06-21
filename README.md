@@ -6,14 +6,13 @@ I write a lot of code in a lot of languages. Mostly functional ones (Standard ML
 
 - Languages and parsers: Lisp/Scheme interpreters, parser combinators, regex engines, esolangs, a small SQL engine.
 - Games: libraries and prototypes with raylib (C), phaser (TS/JS), love2d, and a few hand-rolled engines (ECS, pathfinding, collision, FOV).
-- Machine learning: an open ML curriculum, deep-learning experiments, a multi-agent coding agent.
+- Machine learning: deep-learning experiments and a multi-agent coding agent.
 - Cryptography and Bitcoin: hashes, ciphers, elliptic curves, signatures, Bitcoin/Ethereum primitives.
 - Systems: codecs, compression, an acoustic modem (data over sound), tooling in Rust and C.
 - Classics and writing: interlinear Latin, Greek, and Old English, plus longform writing in TeX.
 
 ## A few projects
 
-- [open-source-machine-learning-degree](https://github.com/sjqtentacles/open-source-machine-learning-degree) — a free ML curriculum (my most-starred repo).
 - [forge](https://github.com/sjqtentacles/forge) — an autonomous coding agent on a multi-agent LangGraph orchestrator.
 - [sonance](https://github.com/sjqtentacles/sonance) — an adaptive acoustic modem in Rust (OFDM, LDPC).
 - [raydial](https://github.com/sjqtentacles/raydial) and [raypals](https://github.com/sjqtentacles/raypals) — raylib libraries for dialogue boxes and sprites (C).
